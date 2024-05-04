@@ -6,11 +6,11 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I am a proactive problem solver with a proven track record of efficiently managing Azure resources, optimizing DevOps workflows, and driving continuous improvement in Azure environments.
 - 📝 I write in-depth, long-form articles on my website [pawanpalblog](https://pawanpalblog.wordpress.com/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c#,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=c#,js,html,css,wasm](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio))](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
