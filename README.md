@@ -12,6 +12,10 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
 
+## 🌱 Currently Exploring
+- 🚀 GitHub Advanced Security for Azure DevOps:
+- Minimizing the risks associated with credential theft
+
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/pawanprakashpal/)
