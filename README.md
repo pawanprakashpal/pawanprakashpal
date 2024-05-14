@@ -3,7 +3,7 @@
 I am a highly skilled and experienced DevOps Architect with 14+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
 
 <a href="https://github.com/pawanprakashpal/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
