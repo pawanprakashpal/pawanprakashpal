@@ -2,7 +2,7 @@
 
 I am a highly skilled and experienced DevOps Architect with 14+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration, and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes..
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -11,6 +11,9 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanprakashpal&hide_progress=true)
 
 ## 🌱 Currently Exploring
 - 🚀 GitHub Advanced Security for Azure DevOps:
