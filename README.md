@@ -1,6 +1,6 @@
 # Hi, I'm Pawan Prakash Pal! 👋
 
-I am a highly skilled and experienced DevOps Architect with 14+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes.
+I am a highly skilled and experienced DevOps Architect with 15+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
