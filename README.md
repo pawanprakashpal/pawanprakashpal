@@ -5,7 +5,7 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 ![<username>'s Stats](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 <a href="https://github.com/pawanprakashpal/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/pawanprakashpal/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs?username=pawanprakashpal&layout=compact&langs_count=10&card_width=320" />
