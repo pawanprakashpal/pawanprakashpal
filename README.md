@@ -15,11 +15,9 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 ## Top Languages
 [![Top Langs](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs/?username=pawanprakashpal&langs_count=8)](https://github.com/pawanprakashpal/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/wakatime?username=pawanprakashpal)](https://github.com/pawanprakashpal/github-readme-stats)
-
 ## 🌱 Currently Exploring
 - 🚀 GitHub Advanced Security for Azure DevOps:
-- Minimizing the risks associated with credential theft
+- 🚀 Minimizing the risks associated with credential theft
 
 ## 📬 Get in Touch
 
