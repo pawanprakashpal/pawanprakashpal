@@ -1,6 +1,10 @@
 # Hi, I'm Pawan Prakash Pal! 👋
 
-I am a highly skilled and experienced DevOps Architect with 14+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration, and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes..
+I am a highly skilled and experienced DevOps Architect with 14+ years of experience in designing, implementing, and managing complex DevOps systems. Expertise in developing strategies for automation, continuous integration, 
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
+and continuous deployment of software applications. Proven ability to lead cross-functional teams and work collaboratively with developers, operations staff, and project managers to drive successful outcomes..
 
 ![<username>'s Stats](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
@@ -8,19 +12,13 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
   <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api?username=pawanprakashpal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/pawanprakashpal/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs?username=pawanprakashpal&layout=compact&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs?username=pawanprakashpal&layout=compact&langs_count=10&card_width=350" />
 </a>
 
 ## 🚀 About Me
 
 - 🔭 I am a proactive problem solver with a proven track record of efficiently managing Azure resources, optimizing DevOps workflows, and driving continuous improvement in Azure environments.
 - 📝 I write in-depth, long-form articles on my website [pawanpalblog](https://pawanpalblog.wordpress.com/)
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
-
-## Top Languages
-[![Top Langs](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs/?username=pawanprakashpal&langs_count=8)](https://github.com/pawanprakashpal/github-readme-stats)
 
 ## 🌱 Currently Exploring
 - 🚀 GitHub Advanced Security for Azure DevOps:
