@@ -13,7 +13,7 @@ I am a highly skilled and experienced DevOps Architect with 14+ years of experie
 [![My Skills](https://skillicons.dev/icons?i=azure,ps,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs/?username=pawanprakashpal&langs_count=8&layout=pie)](https://github.com/pawanprakashpal/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs/?username=pawanprakashpal&langs_count=8&layout=donut-vertical)](https://github.com/pawanprakashpal/github-readme-stats)
 
 ## 🌱 Currently Exploring
 - 🚀 GitHub Advanced Security for Azure DevOps:
