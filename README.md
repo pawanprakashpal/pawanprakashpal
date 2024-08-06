@@ -16,7 +16,7 @@ I am a highly skilled and experienced DevOps Architect with 15+ years of experie
 
 - 🔭 I am a proactive problem solver with a proven track record of efficiently managing Azure resources, optimizing DevOps workflows, and driving continuous improvement in Azure environments.
 - 📝 I write in-depth, long-form articles on my website [pawanpalblog](https://pawanpalblog.wordpress.com/)
-- 📝 [Certifactions](https://learn.microsoft.com/en-us/users/pawanpal/transcript/76py2aozgl6r146?tab=credentials-tab)
+- 📝 [Certifications](https://learn.microsoft.com/en-us/users/pawanpal/transcript/76py2aozgl6r146?tab=credentials-tab)
 
 ## 🌱 Currently Exploring
 - 🚀 GitHub Advanced Security for Azure DevOps:
