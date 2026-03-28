@@ -1,8 +1,6 @@
 # Hi, I'm Pawan Prakash Pal! 👋
 
-**DevOps Architect & Cloud Leader** with 15+ years of experience driving automation, CI/CD, and cloud infrastructure at scale. Currently working at **SmartLinx LLC**.
-
-I specialize in designing and implementing complex DevOps systems, leading cross-functional teams, and driving continuous improvement in Azure environments.
+**DevOps Architect & Cloud Leader** with 15+ years of experience driving automation, scalability, and innovation in complex systems. Currently working at **SmartLinx LLC**. Expertise in designing and implementing CI/CD pipelines, cloud-native solutions, and Infrastructure as Code (IaC) to optimize software delivery. Led cross-functional teams to achieve 70% faster deployments and improved system reliability. Proven ability to mentor engineers, collaborate with stakeholders, and align technical strategies with business goals. Passionate about leveraging technology to deliver scalable and secure solutions. Open to opportunities where I can lead technical excellence and organizational growth.
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,terraform,ansible,cs,docker,kubernetes,dotnet,py,git,github,githubactions,powershell,html,css,react,js,jquery,vscode,visualstudio)](https://skillicons.dev)
