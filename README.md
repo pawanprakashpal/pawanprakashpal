@@ -14,12 +14,11 @@
 </a>
 
 ## 📌 Featured Projects
-<a href="https://github.com/pawanprakashpal/JSEngineeringWorks">
-  <img align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/pin/?username=pawanprakashpal&repo=JSEngineeringWorks&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/pawanprakashpal/RamayanaPath">
-  <img align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/pin/?username=pawanprakashpal&repo=RamayanaPath&theme=radical&hide_border=true" />
-</a>
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **JS Engineering Works** | Full-stack B2B website for a Delhi-based manufacturing company — PHP, Bootstrap, MySQL, AI-powered drawing analyzer | [🌐 jsengineeringworks.com](https://www.jsengineeringworks.com) |
+| **RamayanaPath** | Interactive web app for reading the Ramayana with translations — Next.js, TypeScript | [🌐 ramayanpath.com](https://ramayanpath.com/) · [📂 Repo](https://github.com/pawanprakashpal/RamayanaPath) |
 
 ## 🏅 Certifications
 - Designing Microsoft Azure Infrastructure Solutions (2024)
