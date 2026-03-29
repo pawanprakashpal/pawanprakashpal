@@ -13,6 +13,14 @@
   <img height=200 align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/top-langs?username=pawanprakashpal&layout=compact&langs_count=10&card_width=350&include_all_commits=true" />
 </a>
 
+## 📌 Featured Projects
+<a href="https://github.com/pawanprakashpal/JSEngineeringWorks">
+  <img align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/pin/?username=pawanprakashpal&repo=JSEngineeringWorks&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/pawanprakashpal/RamayanaPath">
+  <img align="center" src="https://github-readme-stats-git-master-pawanprakashpals-projects.vercel.app/api/pin/?username=pawanprakashpal&repo=RamayanaPath&theme=radical&hide_border=true" />
+</a>
+
 ## 🏅 Certifications
 - Designing Microsoft Azure Infrastructure Solutions (2024)
 - MCSD: Web Applications
